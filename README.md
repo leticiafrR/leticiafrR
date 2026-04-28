@@ -46,30 +46,41 @@
 </p>
 
 <p align="left">
-<strong>Backend & Infra:</strong><br/>
+<strong>Frontend & Mobile:</strong><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
+</p>
+
+<p align="left">
+<strong>Backend & Infrastructure:</strong><br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/GCP-4285F4?style=plastic&logo=googlecloud&logoColor=white" />
 </p>
 
 <p align="left">
 <strong>Databases:</strong><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/Qdrant-EF4444?style=plastic&logoColor=white" />
 </p>
 
 <p align="left">
-<strong>AI / Data:</strong><br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-111111?style=plastic&logoColor=white" />
+<strong>Data Science & AI:</strong><br/>
+<img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-111111?style=plastic&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=plastic&logo=huggingface&logoColor=black" />
 </p>
-
 ---
 
 <h2 align="left">🚀 Featured Projects</h2>
