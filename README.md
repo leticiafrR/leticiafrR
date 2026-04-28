@@ -3,7 +3,7 @@
 
 <p align="center">
   I build intelligent systems, scalable backend platforms and data-driven products.<br/>
-  Passionate about Applied AI, Distributed Systems, RAG architectures and recommendation engines.
+  Passionate about Applied AI, Distributed Systems, Data Engineering, RAG architectures and recommendation engines.
 </p>
 
 ---
@@ -13,8 +13,9 @@
 <ul>
   <li>🎓 Software Engineering student at FIUBA (GPA: 8.9/10)</li>
   <li>🔬 Researching Multimodal RAG, retrieval systems and AI agents with LangGraph / smolagents</li>
+  <li>📊 Learning large-scale data processing with Apache Spark and modern data pipelines</li>
   <li>🍎 Teaching Assistant for Algorithms & Programming courses at FIUBA</li>
-  <li>🎯 Open to internships / junior roles in AI Engineering, Data Engineering or Backend</li>
+  <li>🎯 Open to internships / junior roles in AI Engineering, Data Engineering, ML Engineering or Backend</li>
 </ul>
 
 ---
@@ -71,16 +72,23 @@
 </p>
 
 <p align="left">
-<strong>Data Science & AI:</strong><br/>
+<strong>Data Engineering & Analytics:</strong><br/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=plastic&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=plastic&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logoColor=white" />
+</p>
+
+<p align="left">
+<strong>Machine Learning & AI:</strong><br/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-111111?style=plastic&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=plastic&logo=huggingface&logoColor=black" />
 </p>
+
 ---
 
 <h2 align="left">🚀 Featured Projects</h2>
@@ -94,7 +102,7 @@ Worked on a university research project building an assistant for Histopathology
 <ul>
   <li><strong>Tech:</strong> Qdrant, Neo4j, ColPali, LangChain, LangGraph, LangSmith, RAGAS</li>
   <li>Evaluated retrieval quality, hallucination risk, relevance and production tradeoffs.</li>
-  <li>Hands-on exposure to real AI system design beyond toy demos.</li>
+  <li>Hands-on exposure to modern multimodal AI systems and retrieval pipelines.</li>
 </ul>
 
 ---
@@ -121,8 +129,8 @@ Travel discovery platform focused on personalization, social connections and col
 
 <ul>
   <li><strong>Tech:</strong> Spring Boot, React + TypeScript, Neo4j, MongoDB</li>
-  <li>Participated in development and product discovery processes.</li>
   <li>Used graph modeling for recommendations and MongoDB for flexible content.</li>
+  <li>Participated in product discovery and scalable backend decisions.</li>
 </ul>
 
 ---
@@ -141,29 +149,12 @@ Concurrent distributed system designed to continue operating under failures.
 
 ---
 
-<h3>🦆 <a href="https://github.com/leticiafrR/tp-duck-game">Duck Game Remake</a> – Multiplayer Engine</h3>
-
-<p>
-Networked multiplayer game with custom protocol and multithreaded server architecture.
-</p>
+<h2 align="left">📈 Current Focus</h2>
 
 <ul>
-  <li><strong>Tech:</strong> C++, TCP Sockets, Threads, SDL2</li>
-  <li>Built acceptor / sender / receiver architecture with concurrent match handling.</li>
-  <li>Designed event-driven snapshots and modular game world logic.</li>
+  <li>Large-scale data processing with Spark / PySpark</li>
+  <li>ML systems in production</li>
+  <li>Recommendation engines</li>
+  <li>Retrieval systems & agentic workflows</li>
+  <li>Distributed backend architectures</li>
 </ul>
-
----
-
-<h3>⚽ <a href="https://github.com/leticiafrR/gestion-y-reserva-de-futbol5">Fútbol 5 Manager</a> – Full-Stack Booking System</h3>
-
-<p>
-Reservation and scheduling platform for sports venues and match coordination.
-</p>
-
-<ul>
-  <li><strong>Tech:</strong> Spring Boot, React, PostgreSQL, Docker</li>
-  <li>Containerized backend, frontend and database services with Docker Compose.</li>
-  <li>REST architecture with documented APIs.</li>
-</ul>
-
