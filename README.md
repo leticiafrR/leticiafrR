@@ -93,6 +93,19 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 
+
+<h3>🎵 <a href="https://github.com/Melodia-ID2">Melodía</a> – Distributed Music Platform</h3>
+
+<p>
+Full-stack music platform built with a microservices architecture separating transactional, metadata and recommendation workloads.
+</p>
+
+<ul>
+  <li><strong>Tech:</strong> FastAPI, Go, Spring Boot, PostgreSQL, MongoDB, React, React Native</li>
+  <li>Worked on APIs, service communication, scalable backend design and deployment.</li>
+  <li>Strong practical experience in polyglot systems and product-oriented engineering.</li>
+</ul>
+
 <h3>🚥 <a href="https://github.com/leticiafrR/German-Traffic-Sign-Recognition-Benchmark">German Traffic Sign Recognition</a> – Computer Vision & IA</h3>
 
 <p>
@@ -106,7 +119,6 @@ End-to-end benchmark for automatic traffic sign recognition using a dataset of +
 </ul>
 
 ---
-
 <h3>🤖 Multimodal AI Research Project – RAG Systems</h3>
 
 <p>
@@ -117,20 +129,6 @@ Worked on a university research project building an assistant for Histopathology
   <li><strong>Tech:</strong> Qdrant, Neo4j, ColPali, LangChain, LangGraph, LangSmith, RAGAS</li>
   <li>Evaluated retrieval quality, hallucination risk, relevance and production tradeoffs.</li>
   <li>Hands-on exposure to modern multimodal AI systems and retrieval pipelines.</li>
-</ul>
-
----
-
-<h3>🎵 <a href="https://github.com/Melodia-ID2">Melodía</a> – Distributed Music Platform</h3>
-
-<p>
-Full-stack music platform built with a microservices architecture separating transactional, metadata and recommendation workloads.
-</p>
-
-<ul>
-  <li><strong>Tech:</strong> FastAPI, Go, Spring Boot, PostgreSQL, MongoDB, React, React Native</li>
-  <li>Worked on APIs, service communication, scalable backend design and deployment.</li>
-  <li>Strong practical experience in polyglot systems and product-oriented engineering.</li>
 </ul>
 
 ---
