@@ -106,6 +106,8 @@ Full-stack music platform built with a microservices architecture separating tra
   <li>Strong practical experience in polyglot systems and product-oriented engineering.</li>
 </ul>
 
+---
+
 <h3>🚥 <a href="https://github.com/leticiafrR/German-Traffic-Sign-Recognition-Benchmark">German Traffic Sign Recognition</a> – Computer Vision & IA</h3>
 
 <p>
