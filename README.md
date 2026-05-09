@@ -93,6 +93,20 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 
+<h3>🚥 <a href="https://github.com/leticiafrR/German-Traffic-Sign-Recognition-Benchmark">German Traffic Sign Recognition</a> – Computer Vision & IA</h3>
+
+<p>
+End-to-end benchmark for automatic traffic sign recognition using a dataset of +50,000 images and 43 classes.
+</p>
+
+<ul>
+  <li><strong>Tech:</strong> TensorFlow/Keras, Scikit-learn, OpenCV, NetworkX.</li>
+  <li>Developed and compared three architectures: <strong>Baseline (PCA + Logistic Regression)</strong>, <strong>CNN</strong> (99.9% val accuracy), and <strong>Vision Transformer (ViT)</strong>.</li>
+  <li>Implemented advanced analysis: Data Augmentation, Confusion Graphs, and error-confidence evaluation to ensure model robustness in critical environments.</li>
+</ul>
+
+---
+
 <h3>🤖 Multimodal AI Research Project – RAG Systems</h3>
 
 <p>
