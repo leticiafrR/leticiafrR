@@ -11,7 +11,7 @@
 <h2 align="left">🧭 Now:</h2>
 
 <ul>
-  <li>🎓 Software Engineering student at FIUBA (GPA: 8.9/10)</li>
+  <li>🎓 Software Engineering student at FIUBA</li>
   <li>🔬 Researching Multimodal RAG, retrieval systems and AI agents with LangGraph / smolagents</li>
   <li>📊 Learning large-scale data processing with Apache Spark and modern data pipelines</li>
   <li>🍎 Teaching Assistant for Algorithms & Programming courses at FIUBA</li>
